@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-string myName = "Гайворонский Александр";
+string myName = "Шабанова Анастасия";
 string groupName = "ИСП-251";
 int courseNumber = 2;
 double averageGrade = 4.6;
@@ -54,8 +54,8 @@ Console.WriteLine($"25 / 4 как double: {studentsPerGroupCorrect}");
 Console.WriteLine();
 Console.WriteLine("Способы собрать строку");
 
-string firstName = "Александр";
-string lastName = "Гайворонский";
+string firstName = "Анастасия";
+string lastName = "Шабанова";
 
 // Способ 1
 string fullNameConcat = firstName + " " + lastName;
