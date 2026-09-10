@@ -9,7 +9,7 @@ int simester = modul1 + modul2 + modul3; // общее количество ба
 double sred = simester / 3; // среднее количество баллов за семестр
 
 // вывод всех данных
-Console.WriteLine("====Визитная Карточка Гайворонского Александра====");
+Console.WriteLine("====Визитная Карточка Шабановой Анастасии====");
 Console.WriteLine($"- Номер группы: {numberGroup}  "); Console.WriteLine($"- Специальность: {spekial} "); Console.WriteLine($"- Курс: {kurse}");
 Console.WriteLine($"- Баллы за семестр: {simester} "); Console.WriteLine($"- Среднее количество баллов за модуль: {sred} ");
 
